@@ -1,7 +1,7 @@
 # Inteligentna-Analiza-Danych
 Zadanie 1 z przedmiotu Inteligentna Analiza Danych
 
-Zadaniem jest napisanie aplikacji przetwarzającej zbiory danych oraz wyliczającej i prezentującej różne ich charakterystyki. Każdy element przetwarzanego zbioru opisany jest przez zbiór atrybutów (cech): numerycznych bądź symbolicznych. Atrybuty zwykle dzieli się ze względu na na typ danych wartości je opisujących. Z tego względy dzielimy ja na cechy o wartościach przeliczalnych (dyskretnych) i nieprzeliczalnych (najczęściej ze zbioru ciągłego). Ponadto wśród atrybutów przeliczalnych wyróżnia się atrybuty nominalne, których specyficzność polega na braku naturalnego, algebraicznego opisu ich zbioru wartości (przeważnie skończonego), który przeważnie należy postrzegać jako nieuporządkowany zbiór ,,etykiet''.
+Zadaniem jest napisanie aplikacji przetwarzającej zbiory danych oraz wyliczającej i prezentującej różne ich charakterystyki. Każdy element przetwarzanego zbioru opisany jest przez zbiór atrybutów (cech): numerycznych bądź symbolicznych. Atrybuty zwykle dzieli się ze względu na typ danych wartości je opisujących. Z tego względu dzielimy je na cechy o wartościach przeliczalnych (dyskretnych) i nieprzeliczalnych (najczęściej ze zbioru ciągłego). Ponadto wśród atrybutów przeliczalnych wyróżnia się atrybuty nominalne, których specyficzność polega na braku naturalnego, algebraicznego opisu ich zbioru wartości (przeważnie skończonego), który przeważnie należy postrzegać jako nieuporządkowany zbiór ,,etykiet''.
 
 Poniżej prezentowane są różne przykładowe charakterystyki oraz metody analizy, których wyliczenie może być przydatne w analizie przydzielonych zbiorów. Listy tej nie należy jednak traktować jako zamkniętej.
 
